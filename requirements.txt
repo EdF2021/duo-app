@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+python-docx
+pandas
+openai
+streamlit-extras
+Pillow
+streamlit-mic-recorder
+google-genai
+opencv-python
+pyaudio
+mss
